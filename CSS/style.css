@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    width: 1200px;
+    display: flex;
+}
