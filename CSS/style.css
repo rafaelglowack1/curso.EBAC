@@ -5,6 +5,7 @@
 div{
     width: 1200px;
     display: flex;
+    margin: auto;
 }
 img{
     width: 20vw;
@@ -12,6 +13,7 @@ img{
 }
 header{
     margin: 2vw;
+
 
 
 }
@@ -23,12 +25,17 @@ header > h1{
     display: inline;
 
 }
+section{
     
-
-body{
-    margin: 25px;
 }
+body{
+    
+    
+}
+p{
+    padding: 3px;
 
+}
 article > header{
     margin: 0vw 1vw 1vw 1vw;
 }
