@@ -8,4 +8,30 @@ div{
 }
 img{
     width: 20vw;
+    height: 13vw;
+}
+header{
+    margin: 2vw;
+
+
+}
+header > a {
+    display: inline;
+    
+}
+header > h1{
+    display: inline;
+
+}
+    
+
+body{
+    margin: 25px;
+}
+
+article > header{
+    margin: 0vw 1vw 1vw 1vw;
+}
+h3{
+    margin-bottom: 1vw;
 }
